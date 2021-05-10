@@ -12,9 +12,7 @@
 
 
 # Semana 1
-![banner-reto](banner-reto.png)
-## ¿Qué es la NUBE?
-![NUBE](NUBE.png)
+![NUBE](banner-reto-1.png)
 
 ### ¿Qué es la Computación en la Nube? 
 El cloud computing consiste en usar servicios y recursos informáticos de un proveedor como `Microsoft Azure`, `Amazon Web Services (AWS)` o `Google Cloud Platform (GCP)`. Suelen tener un modelo de pago por uso y permiten alquilar servicios de almacenamiento, redes y máquinas virtuales.
