@@ -15,7 +15,7 @@
 ![NUBE](NUBE.png)
 
 ### ¿Qué es la Computación en la Nube? 
-El cloud computing consiste en usar servicios y recursos informáticos de un proveedor como `Microsoft Azure`, `Amazon Web Services` (AWS) o `Google Cloud Platform (GCP)`. Suelen tener un modelo de pago por uso y permiten alquilar servicios de almacenamiento, redes y máquinas virtuales.
+El cloud computing consiste en usar servicios y recursos informáticos de un proveedor como `Microsoft Azure`, `Amazon Web Services (AWS)` o `Google Cloud Platform (GCP)`. Suelen tener un modelo de pago por uso y permiten alquilar servicios de almacenamiento, redes y máquinas virtuales.
 
 ### Servicios
 - Maquinas virtuales:
@@ -38,3 +38,14 @@ La nube pública consiste en contratar los servicios de un proveedor, que es el 
 
 - Nube Híbrida:
 La nube híbrida combina los dos modelos anteriores. Parte del software de una organización puede ejecutar en una nube privada y otra parte en la nube pública. De esta forma, se pueden conseguir las ventajas de ambos modelos. Por un lado la escalabilidad y eficiencia de la nube pública para las aplicaciones en las que sea posible. Por otro lado, pueden existir datos o aplicaciones que no deben ejecutar en nube pública por motivos de seguridad o cumplimiento que ejecutarán en la nube privada.
+
+### Tipos de Servicios en la Nube
+
+- Infraestructura como Servicio (IaaS):
+En esta categoría el usuario alquila la infraestructura informática que necesite y la administra a través de internet. Pueden ser servidores, almacenamiento y máquinas virtuales. La responsabilidad de que el servicio funcione es compartida entre el usuario y el proveedor cloud.
+
+- Plataforma como Servicio (PaaS):
+La plataforma como servicio proporciona un entorno en el que no es necesario administrar la infraestructura a tan bajo nivel como en IaaS. Generalmente en un PaaS se ofrecen recursos de desarrollo e implementación de soluciones.
+
+-Software como Servicio (SaaS):
+El software como servicio proporciona acceso a software ya instalado y administrado. Funciona con una licencia o suscripción periódica. En esta categoría el usuario tiene la mínima responsabilidad, y solamente se limita a acceder y usar el servicio.
