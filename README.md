@@ -47,5 +47,14 @@ En esta categoría el usuario alquila la infraestructura informática que necesi
 - Plataforma como Servicio (PaaS):
 La plataforma como servicio proporciona un entorno en el que no es necesario administrar la infraestructura a tan bajo nivel como en IaaS. Generalmente en un PaaS se ofrecen recursos de desarrollo e implementación de soluciones.
 
--Software como Servicio (SaaS):
+- Software como Servicio (SaaS):
 El software como servicio proporciona acceso a software ya instalado y administrado. Funciona con una licencia o suscripción periódica. En esta categoría el usuario tiene la mínima responsabilidad, y solamente se limita a acceder y usar el servicio.
+
+### Azure
+- Soluciones en la Nube:
+Las soluciones en la nube se entregan en forma de infraestructura como servicio (IaaS), plataforma como servicio (PaaS) y software como servicio (SaaS).
+Es decir, los servicios de Azure van desde servicios sencillos para sitios web en la nube hasta la implementación de equipos totalmente virtualizados para ejecutar soluciones de software personalizadas. Azure permite a un negocio tener una alta disponibilidad de sus servicios, hacer una entrega más rápida de nuevas características a sus clientes, reducir los requisitos para administrar tecnologías de la información y facilitar la escalabilidad de un servicio.
+- Servicios de infraestructura:
+La información y los datos de una organización son los activos más valiosos. Azure ofrece durabilidad y alta disponibilidad, seguridad mediante el cifrado automático y control de acceso basado en rol donde Azure ofrece servicios de almacenamiento seguros que pueden adaptarse a las necesidades de varias organizaciones, escalabilidad con un almacenamiento prácticamente ilimitado, administración y control del mantenimiento y de cualquier problema crítico que pueda surgir y accesibilidad desde cualquier parte del mundo a través de HTTP o HTTPS. Los especialistas en seguridad de la información recomiendan que existan varios respaldos de la información digital de una empresa.
+- Soluciones tecnológicas en menos tiempo, `Web Apps` y `Logic Apps`:
+Azure provee un servicio de Web Apps que te ayuda a elaborar, desplegar y escalar una aplicación web, móvil o una API en menos tiempo y con las tecnologías que ya conoces. Logic Apps ofrece una variedad de tareas que puedes automatizar sin tener que escribir código, por ejemplo detonar una acción al recibir un correo o a cierta hora del día.
