@@ -2,12 +2,10 @@
 
 Retos semanales de la certificación en Microsoft Azure
 
-- [Insertar HN](#insertar-hn).
+- [Semana 1](#semana-1)
 
-# ¿Qué es la NUBE?
+#### Autor: Edgar Rodolfo Braquetes López
 
-Edgar Rodolfo Braquetes López
-
+# Semana 1
+## ¿Qué es la NUBE?
 ![NUBE](NUBE.png)
-
-### Insertar HN
