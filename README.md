@@ -1,7 +1,8 @@
-# Microsoft-Azure
+# Certificación de Microsoft-Azure
+![banner-azure](banner-azure.png)
+
 
 ## Retos semanales de la certificación en Microsoft Azure
-### Autor: Edgar Rodolfo Braquetes López
 
 ### Retos
 - [Semana 1](#semana-1)
@@ -11,6 +12,7 @@
 
 
 # Semana 1
+![banner-reto](banner-reto.png)
 ## ¿Qué es la NUBE?
 ![NUBE](NUBE.png)
 
@@ -58,3 +60,5 @@ Es decir, los servicios de Azure van desde servicios sencillos para sitios web e
 La información y los datos de una organización son los activos más valiosos. Azure ofrece durabilidad y alta disponibilidad, seguridad mediante el cifrado automático y control de acceso basado en rol donde Azure ofrece servicios de almacenamiento seguros que pueden adaptarse a las necesidades de varias organizaciones, escalabilidad con un almacenamiento prácticamente ilimitado, administración y control del mantenimiento y de cualquier problema crítico que pueda surgir y accesibilidad desde cualquier parte del mundo a través de HTTP o HTTPS. Los especialistas en seguridad de la información recomiendan que existan varios respaldos de la información digital de una empresa.
 - Soluciones tecnológicas en menos tiempo, `Web Apps` y `Logic Apps`:
 Azure provee un servicio de Web Apps que te ayuda a elaborar, desplegar y escalar una aplicación web, móvil o una API en menos tiempo y con las tecnologías que ya conoces. Logic Apps ofrece una variedad de tareas que puedes automatizar sin tener que escribir código, por ejemplo detonar una acción al recibir un correo o a cierta hora del día.
+
+##### Autor: Edgar Rodolfo Braquetes López
