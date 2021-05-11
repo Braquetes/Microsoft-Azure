@@ -7,10 +7,6 @@
 ### Retos
 - [Semana 1](#semana-1)
 
-
-
-
-
 # Semana 1
 ![NUBE](banner-reto-1.png)
 
